@@ -39,7 +39,7 @@ This project focuses on detecting fraudulent credit card transactions using Mach
 
 ## Links  
 
-- **Dataset**: [Credit Card Fraud Detection Datasets](https://www.kaggle.com/mlg-ulb/creditcardfraud)  
+- **Dataset**: [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)  
 
 ---
 
